@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://leticia123linda.github.io/ideia-em-foco/sitemap.xml
